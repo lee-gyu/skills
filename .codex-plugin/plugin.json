@@ -1,0 +1,30 @@
+{
+  "name": "@lee-gyu/skills",
+  "version": "1.0.0",
+  "description": "My personal SKILLS",
+  "author": {
+    "name": "Lee Gyu",
+    "email": "leegyu4dev@gmail.com",
+    "url": "https://github.com/lee-gyu/skills"
+  },
+  "homepage": "https://github.com/lee-gyu/skills",
+  "repository": "https://github.com/lee-gyu/skills",
+  "license": "MIT",
+  "keywords": [],
+  "skills": "./skills/",
+  "hooks": {},
+  "interface": {
+    "displayName": "@lee-gyu/skills",
+    "shortDescription": "",
+    "longDescription": "",
+    "developerName": "Lee Gyu",
+    "category": "Developer Tools",
+    "capabilities": [ "Interactive", "Read", "Write" ],
+    "defaultPrompt": [],
+    "websiteURL": "https://github.com/lee-gyu/skills",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "brandColor": "#F59E0B",
+    "screenshots": []
+  }
+}
