@@ -1,0 +1,20 @@
+{
+  "name": "lee-gyu-skills",
+  "interface": {
+    "displayName": "Lee Gyu SKILLS"
+  },
+  "plugins": [
+    {
+      "name": "lee-gyu-skills",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
