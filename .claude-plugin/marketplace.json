@@ -1,0 +1,22 @@
+{
+  "name": "lee-gyu-skills",
+  "owner": {
+    "name": "Lee Gyu",
+    "email": "leegyu4dev@gmail.com"
+  },
+  "metadata": {
+    "description": "My personal SKILLS",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "lee-gyu-skills",
+      "description": "AI 코딩 에이전트용 스킬 모음",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/brainstorming"
+      ]
+    }
+  ]
+}
