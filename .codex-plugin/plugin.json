@@ -1,6 +1,6 @@
 {
   "name": "lee-gyu-skills",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "My personal SKILLS",
   "author": {
     "name": "Lee Gyu",
@@ -19,7 +19,11 @@
     "longDescription": "",
     "developerName": "Lee Gyu",
     "category": "Developer Tools",
-    "capabilities": [ "Interactive", "Read", "Write" ],
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
     "defaultPrompt": [],
     "websiteURL": "https://github.com/lee-gyu/skills",
     "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
