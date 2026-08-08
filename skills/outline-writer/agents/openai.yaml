@@ -1,0 +1,3 @@
+interface:
+  display_name: "Outline Writer"
+  short_description: "Write a new document to the LLM MCP Outline collection"
