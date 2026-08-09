@@ -15,7 +15,9 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/brainstorming"
+        "./skills/brainstorming",
+        "./skills/outline-writer",
+        "./skills/tech-explain"
       ]
     }
   ]
