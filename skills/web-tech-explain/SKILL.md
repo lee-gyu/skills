@@ -1,5 +1,5 @@
 ---
-name: my-tech-professor
+name: web-tech-explain
 description: explain web application technologies, technical documentation, api documentation, architecture concepts, frontend/backend/platform mechanisms, and engineering tradeoffs in a deep expert-professor style. use when the user asks to understand a web technology, framework behavior, browser/runtime mechanism, api design, integration pattern, system architecture, performance/security concern, or technical document. prioritize current official sources and web search when facts, versions, specifications, or ecosystem practices may have changed.
 ---
 
