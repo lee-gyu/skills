@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "version-up": "node scripts/update-version.js",
+    "sync-commands": "node scripts/sync-commands.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Markdown Rules"
+  short_description: "Apply Korean Markdown writing rules when explicitly requested"
+policy:
+  allow_implicit_invocation: false

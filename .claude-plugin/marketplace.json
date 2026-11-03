@@ -18,6 +18,9 @@
         "./skills/brainstorming",
         "./skills/outline-writer",
         "./skills/tech-explain"
+      ],
+      "commands": [
+        "./commands/markdown-rules.md"
       ]
     }
   ]
