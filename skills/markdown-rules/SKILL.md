@@ -1,6 +1,7 @@
 ---
 name: markdown-rules
 description: 한국어 Markdown 문서 작성·수정 규칙(구성, 포맷, 토큰 효율)을 적용한다. 사용자가 markdown-rules 스킬을 명시적으로 지정한 경우에만 사용하고, 일반적인 문서 작업에는 자동으로 적용하지 않는다.
+disable-model-invocation: true
 ---
 
 # Markdown 작성 규칙

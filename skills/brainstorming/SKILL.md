@@ -1,6 +1,7 @@
 ---
 name: brainstorming
 description: "Use for creative work. Explore user intent, requirements, and designs."
+disable-model-invocation: true
 ---
 
 # Brainstorming Ideas

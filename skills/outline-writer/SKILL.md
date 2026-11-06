@@ -1,6 +1,7 @@
 ---
 name: outline-writer
 description: Create and publish a new Markdown document in the fixed "LLM MCP" Outline collection through the outline_docs MCP connector, then return the created document title and URL. Use only when the user explicitly invokes or names the outline-writer skill; do not auto-trigger for ordinary writing, note-taking, or Outline-related requests.
+disable-model-invocation: true
 ---
 
 # Outline Writer
