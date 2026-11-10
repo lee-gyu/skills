@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "My personal SKILLS",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "plugins": [
     {
@@ -16,8 +16,7 @@
       "strict": false,
       "skills": [
         "./skills/brainstorming",
-        "./skills/outline-writer",
-        "./skills/tech-explain"
+        "./skills/outline-writer"
       ],
       "commands": [
         "./commands/markdown-rules.md"
