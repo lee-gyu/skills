@@ -47,3 +47,6 @@ argument에 따라 다음과 같은 작업을 수행한다.
 
 1. `./scripts/pdf-to-md.py`: PDF 파일을 Markdown 형식으로 변환하는 스크립트이다.
 2. `./scripts/epub-to-md.py`: EPUB 파일을 Markdown 형식으로 변환하는 스크립트이다.
+
+스크립트는 스킬 폴더의 `.venv`로 실행한다. 실행 환경 구성, 실행 방법, 옵션은 [references/py-venv.md](references/py-venv.md)를 따른다.
+변환 결과의 `index.md`에 전체 구조와 파일 목록이 정리되어 있으므로 분석은 이 파일부터 읽는다.
