@@ -1,3 +1,7 @@
 [tools]
 node = "24"
 pnpm = "11.18.0"
+
+[tasks.add-skill]
+description = "skills/<name> 보일러플레이트 생성 및 .claude-plugin/marketplace.json 등록"
+run = "node scripts/add-skill.js"
