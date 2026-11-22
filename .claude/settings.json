@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "lee-gyu-skills": {
+      "source": {
+        "source": "directory",
+        "path": "./"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "lee-gyu-skills@lee-gyu-skills": true
+  }
+}

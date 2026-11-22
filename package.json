@@ -1,7 +1,7 @@
 {
   "name": "@lee-gyu/skills",
   "private": true,
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "",
   "main": "index.js",
   "scripts": {
