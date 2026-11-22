@@ -1,0 +1,5 @@
+interface:
+  display_name: "Learning Guide"
+  short_description: "TODO"
+policy:
+  allow_implicit_invocation: false

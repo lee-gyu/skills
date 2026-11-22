@@ -29,3 +29,12 @@ claude plugin marketplace update lee-gyu-skills
 | Codex | `$markdown-rules` 스킬을 명시적으로 지정 (자동 호출 비활성화) |
 
 `commands/markdown-rules.md`는 생성 파일이다. 원본을 수정한 뒤 `pnpm sync-commands`로 갱신한다.
+
+## 스킬 추가
+
+```bash
+mise run add-skill <name>                          # plugin이 하나일 때
+mise run add-skill <name> --plugin <plugin-name>   # plugin이 여러 개일 때
+```
+
+`skills/<name>/SKILL.md`, `skills/<name>/agents/openai.yaml`을 만들고 `.claude-plugin/marketplace.json`의 `skills`에 등록한다. 생성된 파일의 TODO를 채운다.
